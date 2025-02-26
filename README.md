@@ -15,7 +15,7 @@ This repository contains the code for the analyses reported in:
 
 ### Data Files
 
-The data used for these analyses is available for download from The University of Birmingham Institutional Research Archive (UBIRA): `[(https://doi.org/10.25500/edata.bham.00001246)](https://doi.org/10.25500/edata.bham.00001246)`. The file `answers` is provided in `*.csv` and `*.rda` formats.
+The data used for these analyses is available for download from The University of Birmingham Institutional Research Archive (UBIRA): [https://doi.org/10.25500/edata.bham.00001246](https://doi.org/10.25500/edata.bham.00001246). The file `answers` is provided in `*.csv` and `*.rda` formats.
 
 ---
 
